@@ -33,8 +33,8 @@ cd q1-water_quality
 gcc water_quality.c -o water_quality
 
 # Run the executable
-./waterquality
-(Repeat the same pattern for Q2-TransactionProcess/transactionprocessing.c and Q3-DeliveryAnalysis
+./water_quality
+Repeat the same pattern for the others too
 
 
 # Authored by Gilbert NTIVUNWA
