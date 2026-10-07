@@ -1,0 +1,46 @@
+Number of routes: 5
+Distances: 30
+40
+20
+
+33
+60
+Distance limit: 35
+
+===== DELIVERY DISTANCE ANALYSIS =====
+
+Total distance: 183 km
+Average distance: 36.60 km
+Longest route: 60 km
+Routes above 35 km: 2
+Routes above average: 2
+
+Recursive sum: 183 km
+
+
+
+Number of routes: 1
+Distances: 30
+Distance limit: 40
+
+===== DELIVERY DISTANCE ANALYSIS =====
+
+Total distance: 30 km
+Average distance: 30.00 km
+Longest route: 30 km
+Routes above 40 km: 0
+Routes above average: 0
+
+Recursive sum: 30 km
+
+
+
+
+Number of routes: 0
+Please enter a number of routes between 1 and 100.
+
+
+
+Number of routes: 6.5
+Distances: Distances must be whole numbers of zero or more.
+
