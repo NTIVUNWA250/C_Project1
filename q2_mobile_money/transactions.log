@@ -1,0 +1,5 @@
+DEPOSIT OK amount=900 balance=900
+DEPOSIT REJECTED amount=-1000 balance=900
+DEPOSIT OK amount=10000 balance=10900
+WITHDRAW REJECTED amount=12000 balance=10900
+WITHDRAW OK amount=1000 balance=9900

@@ -1,0 +1,28 @@
+Enter water temperature in C: 35
+Enter turbidity in NTU: 40
+
+===== WATER QUALITY MONITORING REPORT =====
+Temperature   : 35.0 C
+Turbidity     : 40.0 NTU
+Quality index : 70.0
+Status        : Warning
+
+
+
+Enter water temperature in C: 24
+Enter turbidity in NTU: 10
+
+===== WATER QUALITY MONITORING REPORT =====
+Temperature   : 24.0 C
+Turbidity     : 10.0 NTU
+Quality index : 94.0
+
+
+nter water temperature in C: 35
+Enter turbidity in NTU: 70
+
+===== WATER QUALITY MONITORING REPORT =====
+Temperature   : 35.0 C
+Turbidity     : 70.0 NTU
+Quality index : 55.0
+Status        : Critical

@@ -1,0 +1,48 @@
+./mobile_money 
+
+===== MOBILE MONEY TRANSACTION SYSTEM =====
+
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction Summary
+5. Exit
+
+Enter choice: 1
+Enter deposit amount: 900
+Deposit successful.
+Current balance: 900 RWF
+
+Enter choice: 1
+Enter deposit amount: -1000
+Transaction rejected: Amount must be positive.
+
+Enter choice: 1
+Enter deposit amount: 10000
+Deposit successful.
+Current balance: 10900 RWF
+
+Enter choice: 2
+Enter withdrawal amount: 12000\
+Transaction rejected: Insufficient balance.
+
+Enter choice: Invalid input. Please enter a number from 1 to 5.
+
+Enter choice: 2
+Enter withdrawal amount: 1000
+Withdrawal successful.
+Current balance: 9900 RWF
+
+Enter choice: 3
+Current balance: 9900 RWF
+
+Enter choice: 4
+Successful deposits: 2
+Successful withdrawals: 1
+Current balance: 9900 RWF
+
+Enter choice: 6
+Invalid choice. Please enter a number from 1 to 5.
+
+Enter choice: 5
+System terminated.
